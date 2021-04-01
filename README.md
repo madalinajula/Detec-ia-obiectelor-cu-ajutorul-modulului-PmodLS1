@@ -1,0 +1,1 @@
+# Detec-ia-obiectelor-cu-ajutorul-modulului-PmodLS1
